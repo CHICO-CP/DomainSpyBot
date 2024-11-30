@@ -36,7 +36,7 @@ Welcome to **DomainSpyBot**! 🚀 This Telegram bot is designed to perform advan
    pkg install nmap
    ```
 
-3. Set up your bot token in the script file (`BOT_TOKEN`).
+3. Set up your bot token in the .env file (`your_token_bot`).
 
 4. Run the bot:  
    ```bash
