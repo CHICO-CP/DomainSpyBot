@@ -40,7 +40,7 @@ Welcome to **DomainSpyBot**! 🚀 This Telegram bot is designed to perform advan
 
 4. Run the bot:  
    ```bash
-   python main.py
+   python run.py
    ```
 
 ## Example of Use 🚀
